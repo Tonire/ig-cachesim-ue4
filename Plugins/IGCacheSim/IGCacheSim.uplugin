@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "IGCacheSim",
+	"Description": "InsomniacGames Cache simulation tool integration with Unreal Engine",
+	"Category": "Other",
+	"CreatedBy": "Toni_re",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "IGCacheSim",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"WhitelistPlatforms": [
+		"Win64"
+	]
+}
