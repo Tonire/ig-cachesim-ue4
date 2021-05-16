@@ -22,6 +22,10 @@ The talk is available on the GDC vault with full video as well.
 7. Open the *CacheSimUI-x64-Release/CacheSimUI.exe* binary included in this repo or compile it yourself from the [ig-cachesim](https://github.com/Tonire/ig-cachesim) repo.
 8. Open the report that has been generated next to the game's executable.
 
+![Dump next to the executable](Readme/dump.png)
+
+![CacheSim UI](Readme/dump1.png)
+
 ## Known issues
 Do not use it inside the editor. It will most likely crash.
 
